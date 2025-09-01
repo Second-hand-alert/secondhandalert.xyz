@@ -38,4 +38,4 @@ If you encounter any problems, you can either contact [Espen Klem](mailto:espen.
 
 ## Privacy
 
-The browser extension and [secondhandalert.xyz](https://secondhandalert.xyz/) doesn't store any cookies and we're using [Plausible.com](https://plausible.io/) for statistics.
+The browser extension and [secondhandalert.xyz](https://secondhandalert.xyz/) doesn't store any cookies and we're using [Plausible.io](https://plausible.io/) for statistics.
