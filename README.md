@@ -15,11 +15,11 @@ Each browser extension is for a set of stores and second-hand stores in one spec
 Connected stores:
 
 * **Furniture:** [IKEA.no](https://www.ikea.com/no/no/) connects to [FINN.no](https://www.finn.no/)
-* **Books:** [Adlibris](https://www.adlibris.com/nb), [Akademika](https://www.akademika.no/), [Ark](https://www.ark.no/) and [Norli](https://www.norli.no/) connects to [Bookis.com/no](https://bookis.com/no)
+* **Books:** [Adlibris](https://www.adlibris.com/nb), [Akademika](https://www.akademika.no/), [Ark](https://www.ark.no/), [Bokkilden](https://www.bokkilden.no/) and [Norli](https://www.norli.no/) connects to [Bookis.com/no](https://bookis.com/no)
 
 Work in progress:
 
-* **Books:** [Bokkilden](https://www.bokkilden.no/), [Abe books](https://www.abebooks.com/), [Amazon.com](https://www.amazon.com/) and [Amazon.co.uk](https://www.amazon.co.uk/) will connect to [Bookis.com/no](https://bookis.com/no)
+* **Books:** [Abe books](https://www.abebooks.com/), [Amazon.com](https://www.amazon.com/) and [Amazon.co.uk](https://www.amazon.co.uk/) will connect to [Bookis.com/no](https://bookis.com/no)
 * **Childrens clothes:** [Polarn O. Pyret](https://www.polarnopyret.no/) and [Reima](https://www.reima.com/nb-NO) will connect to [FINN.no](https://www.finn.no/)
 
 ## Installation
