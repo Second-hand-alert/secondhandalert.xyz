@@ -15,7 +15,7 @@ Each browser extension is for a set of stores and second-hand stores in one spec
 Connected stores:
 
 * **Furniture:** [IKEA.no](https://www.ikea.com/no/no/) connects to [FINN.no](https://www.finn.no/)
-* **Books:** [Abe books](https://www.abebooks.com/), [Adlibris](https://www.adlibris.com/nb), [Akademika](https://www.akademika.no/), [Amazon.com](https://www.amazon.com/), [Amazon.co.uk](https://www.amazon.co.uk/), [Ark](https://www.ark.no/), [Bokkilden](https://www.bokkilden.no/) and [Norli](https://www.norli.no/) connects to [Bookis.com/no](https://bookis.com/no)
+* **Books:** [Abe books](https://www.abebooks.com/), [Adlibris](https://www.adlibris.com/nb), [Akademika](https://www.akademika.no/), [Amazon.com](https://www.amazon.com/), [Amazon.co.uk](https://www.amazon.co.uk/), [Ark](https://www.ark.no/), [Bokkilden](https://www.bokkilden.no/), [Norli](https://www.norli.no/) and [Tronsmo](https://www.tronsmo.no/) connects to [Bookis.com/no](https://bookis.com/no)
 
 Work in progress:
 
