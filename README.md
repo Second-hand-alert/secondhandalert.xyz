@@ -18,6 +18,11 @@ Connected stores:
 * **Books:** [Abe books](https://www.abebooks.com/), [Adlibris](https://www.adlibris.com/nb), [Akademika](https://www.akademika.no/), [Amazon.com](https://www.amazon.com/), [Amazon.co.uk](https://www.amazon.co.uk/), [Ark](https://www.ark.no/), [Bokkilden](https://www.bokkilden.no/), [Norli](https://www.norli.no/) and [Tronsmo](https://www.tronsmo.no/) connects to [Bookis.com/no](https://bookis.com/no)
 * **Childrens clothes, outdoor and sportswear:** [Barnas hus](https://www.barnashus.no/), [Didriksons](https://www.didriksons.com/no), [Eurosko](https://www.eurosko.com/no), [Gullkorn](https://www.gullkorn.com/), [Helly Hansen](https://www.hellyhansen.com/), [Kappahl](https://www.kappahl.com/nb-no), [Kattnakken](https://kattnakken.no/), [Polarn O. Pyret](https://www.polarnopyret.no/) and [Reima](https://www.reima.com/nb-NO) connects to [FINN.no](https://www.finn.no/)
 
+## Work in progress:
+
+* **Childrens clothes, outdoor and sportswear:** [Bergans](https://www.bergans.com/no) and [Eurosko](https://www.eurosko.com/no)
+
+
 ## Installation
 
 ### Chrome for desktop
