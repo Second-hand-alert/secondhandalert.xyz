@@ -30,7 +30,7 @@ Connected stores:
 
 ## Help
 
-If you encounter any problems, you can either contact [Espen Klem](mailto:espen.klem@gmail.com) or [Second-hand alert on BlueSky](https://bsky.app/profile/secondhandalert.xyz)
+If you encounter any problems, you can either contact [Espen Klem](mailto:espen.klem@mail.secondhandalert.xyz) or [Second-hand alert on BlueSky](https://bsky.app/profile/secondhandalert.xyz)
 
 ## Privacy
 
