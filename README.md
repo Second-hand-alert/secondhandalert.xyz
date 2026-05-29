@@ -41,6 +41,6 @@ If you encounter any problems, you can either contact [Espen Klem](mailto:espen.
 
 The browser extension and [secondhandalert.xyz](https://secondhandalert.xyz/) doesn't store any cookies and we're using [Plausible.io](https://plausible.io/) for statistics.
 
- ## Rights
+## Rights
 
-  ** Copyright © 2025 Espen Klem. All rights reserved **
+**Copyright © 2025 Espen Klem. All rights reserved**
