@@ -43,4 +43,4 @@ The browser extension and [secondhandalert.xyz](https://secondhandalert.xyz/) do
 
 ## Rights
 
-**Copyright © 2025 Espen Klem. All rights reserved**
+**Copyright © 2025 - 2026 Espen Klem. All rights reserved**
